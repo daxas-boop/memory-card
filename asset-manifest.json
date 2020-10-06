@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/memory-card/static/js/main.3055aa27.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.3055aa27.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.4cf988ce.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.4cf988ce.js.map",
+    "static/js/2.c4708710.chunk.js": "/memory-card/static/js/2.c4708710.chunk.js",
+    "static/js/2.c4708710.chunk.js.map": "/memory-card/static/js/2.c4708710.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "precache-manifest.122267fea0ebfc83f9c582466379cca9.js": "/memory-card/precache-manifest.122267fea0ebfc83f9c582466379cca9.js",
+    "service-worker.js": "/memory-card/service-worker.js",
+    "static/js/2.c4708710.chunk.js.LICENSE.txt": "/memory-card/static/js/2.c4708710.chunk.js.LICENSE.txt",
+    "static/media/Edward.jpg": "/memory-card/static/media/Edward.4042aa95.jpg",
+    "static/media/Hisoka.jpeg": "/memory-card/static/media/Hisoka.3b321f01.jpeg",
+    "static/media/Ippo.jpg": "/memory-card/static/media/Ippo.357908ba.jpg",
+    "static/media/Killua.jpg": "/memory-card/static/media/Killua.1bc1031d.jpg",
+    "static/media/Kirito.jpg": "/memory-card/static/media/Kirito.bcbd030d.jpg",
+    "static/media/Lelouch.jpg": "/memory-card/static/media/Lelouch.9ca8e2b6.jpg",
+    "static/media/Luffy.jpg": "/memory-card/static/media/Luffy.58a63fac.jpg",
+    "static/media/Mirtha.jpg": "/memory-card/static/media/Mirtha.e731e04f.jpg",
+    "static/media/Netero.jpg": "/memory-card/static/media/Netero.3b1bb249.jpg",
+    "static/media/Trump.jpg": "/memory-card/static/media/Trump.e96c186a.jpg",
+    "static/media/ZeroTwo.jpg": "/memory-card/static/media/ZeroTwo.d684bc05.jpg",
+    "static/media/Zoro.jpg": "/memory-card/static/media/Zoro.54dffcab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cf988ce.js",
+    "static/js/2.c4708710.chunk.js",
+    "static/js/main.3055aa27.chunk.js"
+  ]
+}
