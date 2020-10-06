@@ -18,8 +18,8 @@ const GameCard = (props) => {
     const {onClickCards, name, anime, src} = props
 
     return (
-        <Grid item onClick={() => onClickCards(name)}>
-            <Card className={classes.root}>
+        <Grid item onClick={() => onClickCards(name)} >
+            <Card className={classes.root} disableRipple>
                 <CardActionArea>
                     <CardMedia
                     component="img"
